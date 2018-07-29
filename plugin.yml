@@ -1,0 +1,8 @@
+main: network.aeternum.chatcomplete.ChatComplete
+name: ChatComplete
+version: 1.2
+author: BananaPuncher714
+description: Auto-complete chat with style
+permissions:
+  chatcomplete.use:
+    default: true
